@@ -1,0 +1,22 @@
+{
+  "name": "n-primes",
+  "version": "1.0.0",
+  "description": "Generate n prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghav-Tiruvallur/n-primes.git"
+  },
+  "keywords": [
+    "n-primes"
+  ],
+  "author": "Raghav Tiruvallur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghav-Tiruvallur/n-primes/issues"
+  },
+  "homepage": "https://github.com/Raghav-Tiruvallur/n-primes#readme"
+}
